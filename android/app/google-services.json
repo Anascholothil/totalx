@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690029101559",
+    "project_id": "totalxtest-8c3df",
+    "storage_bucket": "totalxtest-8c3df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690029101559:android:f8f1dedfa1dd691c0d2ef2",
+        "android_client_info": {
+          "package_name": "com.example.totalx_testpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2A_LPlm9_vsvoA8fyEKYVqGIXRHm3Arc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690029101559:android:95c17511c27fcbc10d2ef2",
+        "android_client_info": {
+          "package_name": "com.totalx_testpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2A_LPlm9_vsvoA8fyEKYVqGIXRHm3Arc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
